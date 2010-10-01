@@ -1,0 +1,500 @@
+vim project.clj 
+lein repl
+l
+more project.clj 
+more ../enlive-tutorial/
+more ../enlive-tutorial/project.clj 
+vim project.clj 
+l
+l lib/
+rm -rf lib/*
+lein repl
+lein swank
+lein repl
+l
+lein repl
+vim project.clj 
+lein repl
+l
+cd src/tsc/
+l
+vim core.clj 
+lein repl
+cd ..
+lein repl
+l
+l classes/
+l classes/tsc/core
+l classes/tsc/
+l classes/tsc/core__init.class 
+vim project.clj 
+lein repl
+cd ..
+l
+cd enlive-tutorial/
+l
+lein repl
+lein-stable repl
+more project.clj 
+cd ../tsc/
+lein-stable repl
+lein repl
+lein-stable repl
+clear
+lein repl
+lein-stable repl
+lein repl
+quit
+apt install xchat
+exit
+python
+cd ..
+cd tsc/
+lein-stable repl
+cd ..
+git clone git://github.com/ninjudd/cake.git
+cd cake/
+l
+cd 
+cd bin
+ln -s /home/jclaggett/dev/cake/bin/cake .
+l
+cd -
+cd dev/cake/
+cake repl
+apt install ruby
+cake repl
+l
+cd ..
+cd tsc
+cake repl
+cake
+cd ../
+cd cake/
+cake
+cake run ../tsc/src/tsc/impl.clj 
+cake repl
+cd ..
+cake help
+cd cake/
+cake ps
+cake stop
+cake start
+cale start
+cake start
+cake help
+cd ../tsc/
+cake start
+cake clean
+l
+rm -rf lib/*
+cake start
+cake --help
+cd ../cake/
+l
+cd src/
+l
+cd cake/
+l
+vim project.clj 
+cd ..
+l
+cd ..
+ls
+cd examples/
+l
+cd ba
+cd bake
+cd ../bake/
+l
+more bake
+more bake.clj 
+vim /home/jclaggett/bin/cake 
+cd ../../tsc/
+cake -v repl
+cake -d repl
+cake repl -v
+cake ps
+jps
+cake restart
+cake restart -vd
+cake help
+cake compile
+cake repl
+cd ..
+gem install cake
+apt install rubygems
+gem install cake
+rm /home/jclaggett/bin/cake 
+cd tsc
+cake repl
+rehash
+cake repl
+quit
+l
+cd src/
+l
+v
+l
+cd ..
+l
+l classes/
+l lib/
+cd ..
+l
+cd leiningen/
+l
+more project.clj 
+lein 
+lein help
+lein upgrade
+lein test
+l
+more README.md 
+lein repl
+l ~/bin
+cdh
+lein repl
+lein repl | more
+lein repl > more
+lein repl 2> more
+vim project.clj 
+scr
+exit
+l
+lein repl
+l
+more hs_err_pid15851.log 
+l
+rm more
+vim project.clj 
+lein repl
+cd src/
+l
+more constraint.clj 
+v
+git status
+git diff constraint.clj
+git add constraint.clj
+cp constraint.clj ../../tsc/src/tsc/
+cd ../../tsc/src/
+l
+cd tsc/
+l
+vim constraint.clj 
+lein repl
+cd ..
+lein-stable repl
+lein repl
+l
+l classes/tsc/
+vim project.clj 
+l
+l test/
+l
+vim src/tsc/constraint.clj 
+l
+mkdir src/tsc/impl
+touch src/tsc/impl.clj
+vim src/tsc/constraint.clj 
+cd ..
+cd tsc
+vb
+exit
+quit
+cake repl
+cake help
+exit
+cd
+l
+cd .config/
+l
+cd ..
+cd .config/
+l
+cd ..
+l
+l -a | more
+apt install pluginpack
+apt search pidgin
+apt install pidgin-plugin-pack
+exit
+cake help
+cake repl
+cake help
+vim ../../bin/cake 
+cake help
+ps -aux
+kill 11680 11677
+ps -aux
+kill 11702 11705 11804 11871
+ps -aux
+kill 11703 11708 11808 11876
+ps -aux
+kill  8154 8156 8169 8172 8275 8278 8290 8293 8310
+ps -aux
+kill 6829 6831 6832 6835 6877
+ps -aux
+kill 6879 6881 6883 8312 8316 8315
+ps -aux
+ps 
+ps -z
+ps -C
+ps -C sh
+ps -A
+reboot
+exit
+v
+cake repl
+v
+exit
+l
+cake repl
+l ../../bin
+l
+cd lib/
+l
+cd ..
+ls
+lein-stable repl
+cd ../cake/
+l
+./bin/cake test
+ls
+more README.md 
+cd
+cd bin
+ln -s $HOME/dev/cake/bin/cake .
+l
+cdh
+cake 
+l
+cake repl
+cake help
+cake test
+cake repl
+l
+cd test/
+l
+cd tsc/
+l
+more core_test.clj 
+cd ..
+ls
+cd src/
+l
+l tsc
+cd tsc/
+l
+vim core.clj 
+rm core.clj 
+l
+rmdir impl/
+l
+cd ..
+l
+vim tsc.clj 
+v
+scr
+cd ..
+cake repl
+scr
+cake repl
+scr
+exit
+cake repl
+ps -aux
+killall java
+ps -aux
+cake repl
+ps -aux
+ps -auxww
+vim $(which cake)
+cake -d repl
+cake repl -v
+ps -auxww
+cake repl -v
+cake repl restart
+cake repl
+ps -aux
+killall java
+ps -aux
+cake repl
+ps -aux
+killall java
+cake repl
+sudo lspci -vvvnn |less
+killall java
+sudo lspci -vvvnn |less
+killall java
+quit
+cake repl
+quit
+sudo lspci -vvvnn |less
+cake repl
+ps -aux
+cake repl
+fg
+quit
+cake help
+cake ps
+jps
+apt openjdk-6-jdk
+apt install openjdk-6-jdk
+fg
+quit
+cake repl
+quit
+cake repl
+exit
+cake repl
+exit
+xdpyinfo 
+xdpyinfo  | less
+exit
+cd 
+cdh
+cd ../cake/
+git pull
+git log
+exit
+cake repl
+vim tst.clj
+vim src/tst.clj
+fg
+cake repl
+killall java
+cake repl
+killall java
+ps -aux
+cake repl
+ps -aux
+cake repl
+ps -aux
+killall java
+cake repl
+cake restart
+ps -aux
+killall java
+ps -aux
+cake start
+cake -v repl
+cake repl -v
+quit
+vim src/tst.clj 
+quit
+cake repl
+ps -aux
+cake repl
+vim tst.clj
+fg
+vim tst.clj
+cake repl
+l
+mv tst.clj src/
+fg
+vim src/tst.clj 
+fg
+vim src/tst.clj 
+fg
+cake repl
+fg
+ps -aux
+killall 
+killall -l
+ps -aux
+killall 'java -Dcake'
+killall -r 'java -Dcake'
+killall -r 'java -Dcake.*'
+killall 
+killall -r 'java'
+ps -aux
+scr
+quit
+h
+h apt
+ps -au
+ps -aux
+cd
+cd Music/
+l
+scp dev:../chouser/Terry\\\ S\\\ Taylor.tar .
+tsc
+quit
+cd ../cake/
+git pull
+exit
+exit
+cd
+mkdir games
+cd games/
+cp ../Downloads/df_31_12_linux.tar.bz2 .
+bunzip df_31_12_linux.tar.bz2 
+tar xjf df_31_12_linux.tar.bz2 
+cd df_linux/
+l
+./df
+fg
+./df
+bg
+l
+cd
+cdh
+l
+quit
+vim
+exit
+cake repl
+cd ..
+cd cake/
+git pull
+cd ../
+cd tsc
+cdh
+ps -aux
+cake repl
+cake kill -9 
+cake repl
+exit
+quit
+vim
+vim junk.clj
+exit
+ssh 192.168.250.1
+ssh root@192.168.250.1
+exit
+cd ..
+ls
+cd misc/
+cake repl
+cd ..
+mkdir new
+cd new
+l
+cake init
+cake help
+l
+cake new
+cake restart
+cake kill
+exit
+ls
+cake src/tst.clj 
+echo '(print "Hello, World")' > hw.clj
+cake hw.clj 
+rm hw.clj 
+fg
+exit
+v
+qit
+quit
+cd ../cake/
+cake pull
+git pull
+cd -
+cake repl
+exit
+v
+scr
+exit
+quit
